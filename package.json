@@ -21,7 +21,7 @@
     "gulp-sourcemaps": "^1.12.1",
     "gulp-uglify": "^2.0.0",
     "gulp-uncss": "^1.0.6",
-    "node-sass": "^3.11.2"
+    "node-sass": "^7.0.0"
   },
   "repository": {
     "type": "git",
