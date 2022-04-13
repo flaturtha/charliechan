@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/flaturtha/charliechan",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "bundler": "^0.8.0",
     "dev-ip": "^1.0.1",
     "gulp-cli": "^2.0.1",
