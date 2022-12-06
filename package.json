@@ -38,7 +38,7 @@
     "minimatch": "^3.0.4",
     "netlify-cli": "^2.6.4",
     "portscanner": "^2.1.1",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "simple-jekyll-search": "^1.7.2",
     "ua-parser-js": "^0.7.19"
   }
